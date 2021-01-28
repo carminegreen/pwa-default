@@ -1,0 +1,5 @@
+body {font-family: sans-serif;color: #ffffff;}
+html,.fullscreen {display: flex;height: 100%;margin: 0;padding: 0;width: 100%;background: #cc194b;}
+.container {margin: auto;text-align: center;}
+.title {font-size: 3rem;}
+img{width:80px;margin:0 auto;}

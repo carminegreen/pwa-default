@@ -1,0 +1,16 @@
+Informazioni PWA Esempio:
+
+# Autore - Carchesio Luca // bibibi.it 
+# Nome Progetto - PWA Esempio
+# Download Correlato all'Articolo presente su semrush.com
+# Licenza https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+Questa cartella contiene:
+
+index.html
+images/set icone da 72px a 512px
+js/core.js
+css/stylesheet.css
+service-worker.js
+manifest.json
+
